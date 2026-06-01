@@ -96,7 +96,7 @@ It launches at `http://127.0.0.1:7860`. To build a clickable app wrapper:
 ./build-macos-app.sh
 ```
 
-### Nix Flake (Recommended for Local installation/development)
+### Nix Flake (Alternative hassle free installation method)
 This is the most robust and recommended way to run Odysseus locally without Docker. It provides a 100% reproducible, blazingly fast development environment that works universally across all systems (Linux, macOS, and Windows via WSL2).
 
 **Prerequisites:**
