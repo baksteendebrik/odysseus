@@ -109,6 +109,7 @@
             APP_PORT = "7000";
             PYTHONPATH = ".";
             ODYSSEUS_DATA_DIR = "./data";
+            CHROMA_DATA_DIR = "./data/chroma";
           };
 
           # A bash script that executes automatically when a user runs `nix develop`
